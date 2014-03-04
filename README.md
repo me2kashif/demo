@@ -1,7 +1,6 @@
 # Grails Programming Task
 
 ### Four years of Grails experience.
-*Note: This task have taken almost two hours but never mind.*
 
 
 ### Prerequisites
