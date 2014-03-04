@@ -52,7 +52,10 @@ stacktrace.log
  
 .DS_Store
  
-/target/
+/target/classes
+/target/test-classes
+/target/work
+/target/stacktrace.log
  
 /out/
  
